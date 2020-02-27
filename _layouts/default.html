@@ -23,8 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% for page in site.sidebar_pages %}
-        {{page}}
-        <a href="./{{ page[0] }}.html">{{ page[1] }}</a> 
+           <a href="./{{ page[0] }}.html">{{ page[1] }}</a> 
         {% endfor %}
         
       </header>
