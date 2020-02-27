@@ -21,7 +21,7 @@ The following rules apply to all Outdoor Burning at all times:
 ## Firewise
 Take personal responsibility and prepare long before the threat of a wildland fire so your home is ready in case of a fire. Create defensible space by clearing brush away from your home. Use fire-resistant landscaping and harden your home withfire-safe construction measures. Assemble emergency supplies and belongings in a safe place. Plan escape routes and make sure all those residing within the home know the plan of action.
 
-[![Firewise Flyer](https://static.wixstatic.com/media/12af28_ef79a052e84642a8b81fc2d6dba9f543~mv2.jpg/v1/crop/x_0,y_5,w_663,h_863/fill/w_294,h_384,al_c,q_80,usm_0.66_1.00_0.01/Firewise%20Property%20Flyer_JPG.webp)](https://www.dnr.wa.gov/publications/rp_fireprev_home_combo.pdf?r67lrg)
+[Washington State DNR Firewise Flyer](https://www.dnr.wa.gov/publications/rp_fireprev_home_combo.pdf?r67lrg)
 
 ## Good stuff to share with guests
 1. Keep garbage contained so not to attract bears.
