@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Pineloch Sun Beach Club
 
-You can use the [editor on GitHub](https://github.com/vitusventure/PLS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What's New
+* Gates are currently closed.
+* Check [Snoqualmie Pass (I-90)](https://www.wsdot.com/traffic/passes/snoqualmie/) conditions.
+* Reminder: You must be present with your guests at the Lodge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What's Happening
+* [January HOA Meeting Notes](https://7dcbed04-f526-47a3-af67-68008c00b4fe.filesusr.com/ugd/12af28_e18867db82f04d9c8b49d5a5ebdf6206.pdf)
+* Next HOA meeting: April 25th, 9:00AM at the Lodge
 
-### Markdown
+## Hours and Contact Information
+Pineloch Sun Beach Club   
+P.O. Box 157   
+Ronald, WA 98940   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+509-649-2850   
+<pinelochsun@inlandnet.com>
 
-```markdown
-Syntax highlighted code block
+### Lodge Winder Hours
+* Monday - Thursday: Closed
+* Friday: 5-9pm
+* Saturday: 10am-8pm
+* Sunday: 10am-5pm
 
-# Header 1
-## Header 2
-### Header 3
+### Holidays
+* Christmas Eve: Closed
+* Christmas Day: Closed
+* Christmas Week (December 26th - January 1st): Noon-8pm
+* President's Day: Noon-5pm
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vitusventure/PLS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**If Monday is a designated holiday, the Lodge may be open extra hours.**
