@@ -21,6 +21,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        {% for page_name in site.sidebar_pages %}
+        <a href="/{{ page_name }}.html">{{ page_name }}</a> 
+        {% endfor %}
+        
       </header>
       <section>
 
