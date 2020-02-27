@@ -1,5 +1,3 @@
-# Pineloch Sun Beach Club
-
 ## What's New
 * Gates are currently closed.
 * Check [Snoqualmie Pass (I-90)](https://www.wsdot.com/traffic/passes/snoqualmie/) conditions.
