@@ -1,7 +1,7 @@
 ## What's New
 * Gates are currently closed.
 * Check [Snoqualmie Pass (I-90)](https://www.wsdot.com/traffic/passes/snoqualmie/) conditions.
-* Reminder: You must be present with your guests at the Lodge.
+* Reminder: Owners must be present with their guests at the Lodge.
 
 ## What's Happening
 * [January HOA Meeting Notes](https://7dcbed04-f526-47a3-af67-68008c00b4fe.filesusr.com/ugd/12af28_e18867db82f04d9c8b49d5a5ebdf6206.pdf)
