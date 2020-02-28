@@ -7,15 +7,8 @@
 * [January HOA Meeting Notes](https://7dcbed04-f526-47a3-af67-68008c00b4fe.filesusr.com/ugd/12af28_e18867db82f04d9c8b49d5a5ebdf6206.pdf)
 * Next HOA meeting: April 25th, 9:00AM at the Lodge
 
-## Hours and Contact Information
-Pineloch Sun Beach Club   
-P.O. Box 157   
-Ronald, WA 98940   
-
-509-649-2850   
-<pinelochsun@inlandnet.com>
-
-### Lodge Winder Hours
+## Lodge Hours
+### Winter Hours
 * Monday - Thursday: Closed
 * Friday: 5-9pm
 * Saturday: 10am-8pm
@@ -28,3 +21,11 @@ Ronald, WA 98940
 * President's Day: Noon-5pm
 
 **If Monday is a designated holiday, the Lodge may be open extra hours.**
+
+## Contact Information
+Pineloch Sun Beach Club   
+P.O. Box 157   
+Ronald, WA 98940   
+
+509-649-2850   
+<pinelochsun@inlandnet.com>
